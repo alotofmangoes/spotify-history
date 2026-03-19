@@ -1,6 +1,6 @@
 # Spotify History
 
-#### Dashboard Link:
+#### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMmEyYjQzYTYtMjUyOS00M2E5LWE2N2QtZjE2MmU1N2NhNmNhIiwidCI6IjIzODcwYmMyLTExMjQtNDJlNS05MzBmLTFlMmVhMjE4ZjcyNSJ9
 
 ## Statement
 
